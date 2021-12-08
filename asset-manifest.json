@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tours-review/static/css/main.9e5ab5ca.chunk.css",
+    "main.js": "/tours-review/static/js/main.fe02d681.chunk.js",
+    "main.js.map": "/tours-review/static/js/main.fe02d681.chunk.js.map",
+    "runtime-main.js": "/tours-review/static/js/runtime-main.1c911739.js",
+    "runtime-main.js.map": "/tours-review/static/js/runtime-main.1c911739.js.map",
+    "static/js/2.6495e6ac.chunk.js": "/tours-review/static/js/2.6495e6ac.chunk.js",
+    "static/js/2.6495e6ac.chunk.js.map": "/tours-review/static/js/2.6495e6ac.chunk.js.map",
+    "static/js/3.f972eb96.chunk.js": "/tours-review/static/js/3.f972eb96.chunk.js",
+    "static/js/3.f972eb96.chunk.js.map": "/tours-review/static/js/3.f972eb96.chunk.js.map",
+    "index.html": "/tours-review/index.html",
+    "static/css/main.9e5ab5ca.chunk.css.map": "/tours-review/static/css/main.9e5ab5ca.chunk.css.map",
+    "static/js/2.6495e6ac.chunk.js.LICENSE.txt": "/tours-review/static/js/2.6495e6ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c911739.js",
+    "static/js/2.6495e6ac.chunk.js",
+    "static/css/main.9e5ab5ca.chunk.css",
+    "static/js/main.fe02d681.chunk.js"
+  ]
+}
